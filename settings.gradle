@@ -1,0 +1,4 @@
+include ':data'
+include ':thewirecharacterviewer'
+include ':app'
+rootProject.name = "Simpsons Character Viewer"
